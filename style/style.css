@@ -1,0 +1,13 @@
+table, td, tr, th{
+    border: 1px solid black;
+    width: 500px;
+}
+th{
+    text-align: left;
+}
+tbody{
+    text-align: center;
+}
+tfoot{
+    text-align: right;
+}

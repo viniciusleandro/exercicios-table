@@ -1,0 +1,27 @@
+
+th{
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+}
+
+.ex3 td{
+    border: 2px solid gray;
+}
+.ex4 td{
+    border: 2px solid gray;
+    width: 50px;
+    height: 40px;
+}
+
+.ex5 td{
+    border: 2px solid gray;
+    height: 50px;
+}
+table{
+    margin: 0 auto;
+}
+body{
+    text-align: center;
+}
